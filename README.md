@@ -1,0 +1,2 @@
+
+This project is an application that uses a graphical user interface created with Java's swing where users will be able to select text files to be inputed and then a Java based backend will be used to open up a text document, count the total number of words, the total number of different words (ignoring case) and the count for each different word. All of this information about the text file will then be displayed for the user via the Graphical User Interface. 
